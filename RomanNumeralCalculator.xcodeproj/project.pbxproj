@@ -198,7 +198,7 @@
 				TargetAttributes = {
 					835AEC8A1D80DD7F0046555C = {
 						CreatedOnToolsVersion = 7.3;
-						DevelopmentTeam = 4H584YVF57;
+						DevelopmentTeam = 3DE948Y3UP;
 						LastSwiftMigration = 0810;
 					};
 					F6D823DD1E7940ED001E87A8 = {
@@ -422,14 +422,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 4H584YVF57;
+				DEVELOPMENT_TEAM = 3DE948Y3UP;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
 				);
 				INFOPLIST_FILE = RomanNumeralCalculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "co-m.lnicolet.RomanNumeralCalculator";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.lnicolet.romanCI-";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				SWIFT_INSTALL_OBJC_HEADER = NO;
@@ -443,14 +443,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 4H584YVF57;
+				DEVELOPMENT_TEAM = 3DE948Y3UP;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
 				);
 				INFOPLIST_FILE = RomanNumeralCalculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "co-m.lnicolet.RomanNumeralCalculator";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.lnicolet.romanCI-";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				SWIFT_INSTALL_OBJC_HEADER = NO;
